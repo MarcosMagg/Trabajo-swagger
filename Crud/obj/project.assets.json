@@ -2077,11 +2077,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\Crud\\Crud\\Crud.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Desktop\\CDA practicas\\Crud\\Crud\\Crud.csproj",
       "projectName": "Crud",
-      "projectPath": "C:\\Users\\Dell\\Desktop\\Crud\\Crud\\Crud.csproj",
+      "projectPath": "C:\\Users\\Dell\\Desktop\\CDA practicas\\Crud\\Crud\\Crud.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dell\\Desktop\\Crud\\Crud\\obj\\",
+      "outputPath": "C:\\Users\\Dell\\Desktop\\CDA practicas\\Crud\\Crud\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
